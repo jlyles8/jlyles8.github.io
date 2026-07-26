@@ -16,6 +16,4 @@ Beyond academics, I am passionate about mentorship, leadership, and expanding op
 Outside of medicine and research, I enjoy weightlifting, training Muay Thai, watching UFC, following basketball, and spending time with family and friends.
 
 
-I actually think this style would fit your website even better than the original because it reads as an aspiring physician-scientist rather than as someone already established in academia. It also leaves room for your page to grow as you add publications, research, and future accomplishments.
-
 
