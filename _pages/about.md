@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I am a first-year medical student at Rosalind Franklin University of Medicine and Science with a background in biomedical engineering from Purdue University, where I earned my B.S. with a minor in Pre-Medicine. Prior to medical school, I worked as an Orthopedic Medical Assistant at Duly Health and Care, gaining hands-on experience in musculoskeletal medicine, patient care, and clinical procedures. I also conducted undergraduate research in biomechanics and wearable rehabilitation technologies and completed an R&D internship at Baxter International investigating fibrin sealants for surgical applications. 
+Hello! I am a first-year medical student at Rosalind Franklin University of Medicine and Science with a background in biomedical engineering from Purdue University, where I earned my B.S. Prior to medical school, I worked as an Orthopedic Medical Assistant at Duly Health and Care, gaining hands-on experience in musculoskeletal medicine, patient care, and clinical procedures. I also conducted undergraduate research in biomechanics and wearable rehabilitation technologies and completed an R&D internship at Baxter International investigating fibrin sealants for surgical applications. 
 
 My research interests lie at the intersection of medicine and engineering, with a focus on orthopedic surgery, biomechanics, medical devices, rehabilitation technologies, and the application of artificial intelligence and computational methods to improve clinical decision-making. Previous projects have included wearable haptic feedback systems for motor rehabilitation, fuzzy logic-based medication dosing algorithms, breath analysis medical devices, and quantitative analysis of fibrin clot architecture. 
 
