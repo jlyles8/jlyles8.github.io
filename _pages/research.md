@@ -38,10 +38,3 @@ in surgical-sealant research.
 [Read the research PDF](/files/fibrin_clot_publication.pdf)
 
 ---
-
-### Wearable Haptic Feedback and Human Movement
-
-My work in the Chan Musculoskeletal Research Laboratory involved wearable sensors,
-motion capture, biomechanics, motor-skill acquisition, consolidation, and retention.
-
-[View NeuroPak project](https://jlyles8.github.io/jordan-christopher-lyles-neuropak-research/)
