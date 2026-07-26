@@ -23,7 +23,7 @@ repository               : "jlyles8/jlyles8.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Jordan Christopher Lyles"
   pronouns         : # example: "she/her"  
   bio              : "M1 at Rosalind Franklin University of Medicine and Science | B.S. in Biomedical Engineering from Purdue University"
