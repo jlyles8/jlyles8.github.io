@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Here's a version that follows the same style and tone as the example while reflecting your background and keeping it appropriate for a personal academic website:
-
----
 
 Hello! I am a first-year medical student at Rosalind Franklin University of Medicine and Science with a background in biomedical engineering from Purdue University, where I earned my B.S. with a minor in Pre-Medicine. Prior to medical school, I worked as an Orthopedic Medical Assistant at Duly Health and Care, gaining hands-on experience in musculoskeletal medicine, patient care, and clinical procedures. I also conducted undergraduate research in biomechanics and wearable rehabilitation technologies and completed an R&D internship at Baxter International investigating fibrin sealants for surgical applications. 
 
@@ -18,7 +15,6 @@ Beyond academics, I am passionate about mentorship, leadership, and expanding op
 
 Outside of medicine and research, I enjoy weightlifting, training Muay Thai, watching UFC, following basketball, and spending time with family and friends.
 
----
 
 I actually think this style would fit your website even better than the original because it reads as an aspiring physician-scientist rather than as someone already established in academia. It also leaves room for your page to grow as you add publications, research, and future accomplishments.
 
