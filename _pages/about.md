@@ -14,6 +14,3 @@ My research interests lie at the intersection of medicine and engineering, with 
 Beyond academics, I am passionate about mentorship, leadership, and expanding opportunities for underrepresented students in STEM and medicine. I have served in leadership roles within Kappa Alpha Psi Fraternity, Inc., mentored engineering students through the National Society of Black Engineers and Purdue's Minority Engineering Program, and remain committed to serving communities through both medicine and outreach. 
 
 Outside of medicine and research, I enjoy weightlifting, training Muay Thai, watching UFC, following basketball, and spending time with family and friends.
-
-
-
