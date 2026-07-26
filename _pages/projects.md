@@ -29,7 +29,7 @@ NeuroPak wearable resistance system. My work included research-meeting participa
 protocol development, pilot testing, PhaseSpace motion-capture preparation, participant
 data acquisition, and refinement of computational analysis procedures.
 
-[View the Document](/files/Baxter_Final.pdf)
+[View the Document](/files/Baxter_Final.docx)
 
 ---
 
