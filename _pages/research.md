@@ -9,8 +9,6 @@ My research interests include musculoskeletal biomechanics, orthopedic medicine,
 wearable technology, human motor learning, rehabilitation engineering, surgical
 biomaterials, and medical-device development.
 
-## Featured Research
-
 ### NeuroPak Motor Learning and Neural Adaptation
 
 ![NeuroPak research](/images/neuropak-preview.jpg)
