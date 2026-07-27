@@ -60,7 +60,7 @@ Beyond STEM education, the game was also intended to make repeated muscle activa
 
 [View project website](https://jlyles8.github.io/jordan-christopher-lyles-flappy-boiler/)
 
-[View DHF File](/files/flappy-boiler-project.pdf)
+[View PDF](/files/flappy-boiler-project.pdf)
 
 ---
 
