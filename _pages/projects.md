@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-### Volatile Organic Compund (VOC) Senior Design Poster
+## Volatile Organic Compund (VOC) Senior Design Poster
 
 <!-- ![VOC projects](/images/VOC-preview.jpg) -->
 
