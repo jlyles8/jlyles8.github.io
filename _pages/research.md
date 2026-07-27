@@ -11,7 +11,7 @@ biomaterials, and medical-device development.
 
 ### NeuroPak Motor Learning and Neural Adaptation
 
-![NeuroPak research](/images/neuropak-preview.jpg)
+<!-- ![NeuroPak research](/images/neuropak-preview.jpg) -->
 
 As an undergraduate group member in the Chan Musculoskeletal Research Laboratory
 at Purdue University, I contributed to a human motor-learning study evaluating the
@@ -25,7 +25,7 @@ data acquisition, and refinement of computational analysis procedures.
 
 ### Fibrin Clot Networks and Surgical Sealants
 
-![Fibrin research](/images/fibrin-preview.jpg)
+<!-- ![Fibrin research](/images/fibrin-preview.jpg) -->
 
 During my internship with Baxter International, I studied fibrin clot microstructure
 and developed approaches for quantifying scanning electron microscopy images used
