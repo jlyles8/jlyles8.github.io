@@ -50,3 +50,17 @@ Documentation of SEM analysis of fibrin clot structure
 
 ---
 
+## EPICS Flappy Boiler Project
+
+ <!--![Bell projects](/images/Bell-preview.jpg) -->
+
+Flappy Boiler was designed as a Purdue-themed, EMG-controlled game for Imagination Station, a children’s science museum in Lafayette, Indiana. The exhibit helps young users see how electrical activity produced by a muscle can control an object on a screen, turning an abstract biomedical engineering concept into an immediate visual experience.
+
+Beyond STEM education, the game was also intended to make repeated muscle activation more engaging for children with muscular dystrophy and related neuromuscular or movement disorders. By linking a purposeful arm contraction to a fun, visible response, the concept supports practice of voluntary movement and functional control through play.
+
+[View project website](https://jlyles8.github.io/jordan-christopher-lyles-flappy-boiler/)
+
+[View DHF File](/files/flappy-boiler-project.pdf)
+
+---
+
