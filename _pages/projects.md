@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-Compilation of my engineering projects
-
 ### Volatile Organic Compund (VOC) Senior Design Poster
 
 <!-- ![VOC projects](/images/VOC-preview.jpg) -->
@@ -14,7 +12,7 @@ Compilation of my engineering projects
 A biomedical device accessory designed to improve the consistency of tidal-breath
 collection for volatile organic compound analysis.
 
-[View the Poster](/files/expo_poster.pdf)
+[View Poster](/files/expo_poster.pdf)
 
 ---
 
@@ -46,17 +44,9 @@ experiencing facial-nerve dysfunction.
 ### Baxter Summer Research Paper
 
 <!--![Baxter projects](/images/Baxter-preview.jpg)  -->
+Documentation of SEM analysis of fibrin clot structure 
 
-As an undergraduate group member in the Chan Musculoskeletal Research Laboratory
-at Purdue University, I contributed to a human motor-learning study evaluating the
-NeuroPak wearable resistance system. My work included research-meeting participation,
-protocol development, pilot testing, PhaseSpace motion-capture preparation, participant
-data acquisition, and refinement of computational analysis procedures.
-
-[View the Document](/files/Baxter_Final.pdf)
-
----
-
+[View Document](/files/Baxter_Final.pdf)
 
 ---
 
