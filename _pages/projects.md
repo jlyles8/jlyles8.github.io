@@ -7,8 +7,6 @@ author_profile: true
 
 Compilation of my engineering projects
 
-## Projects, Posters, and Presentations
-
 ### Volatile Organic Compund (VOC) Senior Design Poster
 
 A biomedical device accessory designed to improve the consistency of tidal-breath
