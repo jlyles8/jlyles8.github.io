@@ -58,8 +58,6 @@ Flappy Boiler was designed as a Purdue-themed, EMG-controlled game for Imaginati
 
 Beyond STEM education, the game was also intended to make repeated muscle activation more engaging for children with muscular dystrophy and related neuromuscular or movement disorders. By linking a purposeful arm contraction to a fun, visible response, the concept supports practice of voluntary movement and functional control through play.
 
-[View project website](https://jlyles8.github.io/jordan-christopher-lyles-flappy-boiler/)
-
 [View PDF](/files/flappy-boiler-project.pdf)
 
 ---
